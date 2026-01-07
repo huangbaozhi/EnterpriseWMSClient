@@ -1,6 +1,7 @@
 ﻿#include "domain_dummy.h"
 #include "runtime_dummy.h"
 
+
 namespace domain {
 
     void bootstrap() {

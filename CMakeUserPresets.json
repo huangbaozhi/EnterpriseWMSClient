@@ -36,7 +36,7 @@
       "name": "msvc2017_64",
       "inherits": "Qt",
       "environment": {
-        "QTDIR": "E:/Qt/Qt5.12.12/5.12.12/msvc2017_64"
+        "QTDIR": "E:/path/Qt/Qt5.12.12/5.12.12/msvc2017_64"
       },
       "architecture": {
         "strategy": "external",
@@ -45,14 +45,14 @@
       "generator": "Ninja",
       "vendor": {
         "qt-project.org/Version": {
-          "checksum": "TanbXm17bbITThGVLDt+qq61hmg="
+          "checksum": "4i1Wos+PhoEmHzQX04QzS4KNN4Y="
         }
       }
     }
   ],
   "vendor": {
     "qt-project.org/Presets": {
-      "checksum": "jhvNbnNqUnrVWj3I7ln5z7zztls="
+      "checksum": "i2gAx0vxoPzA5rvJCc01D39s/qI="
     }
   }
 }
